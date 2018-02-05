@@ -1,0 +1,16 @@
+IamStr 0.0 str
+1 1.1 float
+2 +2.2 float
+3 -3. float
+4 +.4 float
+5 +5.e+5 float
+6 -.6E-6 float
+7 StringBegin str
+8 8 str
+9 + str
+10 . str
+11 -. str
+12 +.e+12 str
+13 .e-13 str
+14 +14.14e14.14 str
+15 <missing> str
