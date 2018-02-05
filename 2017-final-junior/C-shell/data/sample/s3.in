@@ -1,0 +1,10 @@
+9
+mkdir /npsc
+mkdir /npsc/shell
+touch /npsc/shell/s1.in
+touch /npsc/shell/s2.in
+touch /npsc/shell/s3.in
+ls /npsc 0
+ls /npsc/shell 0
+ls /npsc/shell/s1.in 0
+ls /npsc/shell 100

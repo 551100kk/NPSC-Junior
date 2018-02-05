@@ -1,0 +1,19 @@
+18
+touch /c
+mkdir /
+mkdir /a/b
+mkdir /a
+touch /a/b
+mkdir /a
+mkdir /c
+rmdir /c/d
+rmdir /c
+rmdir /a
+mkdir /a/e
+touch /a/e
+rm /a/e
+rm /a/b
+ls / 0
+ls / 1
+ls / 2
+ls / 3

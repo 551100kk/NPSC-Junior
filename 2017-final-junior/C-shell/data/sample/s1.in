@@ -1,0 +1,9 @@
+8
+mkdir /tmp
+mkdir /tmp/tmpdir1
+mkdir /tmp/tmpdir2
+touch /tmp/tmpdir1/tmpfile
+ls / 0
+ls / 1
+ls / 2
+ls / 3
